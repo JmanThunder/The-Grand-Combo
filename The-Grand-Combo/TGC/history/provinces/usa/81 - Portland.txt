@@ -1,0 +1,14 @@
+add_core = COL
+add_core = RPL
+add_core = UOR
+trade_goods = fish
+life_rating = 20
+colonial = 2
+terrain = forest
+1861.1.1 = {
+owner = USA
+controller = USA
+add_core = USA
+remove_core = COL
+colonial = 2
+}
